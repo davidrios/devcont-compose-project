@@ -1,0 +1,8 @@
+{
+    "name": "devcont-compose-project",
+    "dockerComposeFile": "../docker-compose.yaml",
+    "service": "backend",
+    "workspaceFolder": "/code/backend",
+    "shutdownAction": "none",
+    "extensions": ["ms-python.python"]
+}

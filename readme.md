@@ -1,0 +1,1 @@
+Remote containers don't respect COMPOSE_PROJECT_NAME
